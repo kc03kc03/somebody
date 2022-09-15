@@ -1,0 +1,8 @@
+<style>
+	body { background-color: aqua}
+	hr { border-style: none;
+	     border-top-style: dotted;
+         border-color:red;
+         border-width: 5%
+	}
+	</style>
